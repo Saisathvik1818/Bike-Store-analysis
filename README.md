@@ -106,7 +106,7 @@ Segment customers by purchase patterns.
 
 The project uses a dataset containing bike sales, inventory, and customer information. Specific details about the data’s format and structure depend on the business context.
 
-📊 Outcomes
+## 📊 Outcomes
 
 The insights generated include:
 
