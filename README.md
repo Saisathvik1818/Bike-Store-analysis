@@ -110,15 +110,15 @@ The project uses a dataset containing bike sales, inventory, and customer inform
 
 The insights generated include:
 
-Customer Insights: Understanding demographics and preferences.
+# Customer Insights: Understanding demographics and preferences.
 
-Sales Performance: Identifying best-selling products.
+# Sales Performance: Identifying best-selling products.
 
-Inventory Management: Preventing stock imbalances.
+# Inventory Management: Preventing stock imbalances.
 
-Strategic Decisions: Enhancing pricing and promotional strategies.
+# Strategic Decisions: Enhancing pricing and promotional strategies.
 
-🔬 Future Work
+## 🔬 Future Work
 
 Predictive Modeling: Forecast sales trends and demand.
 
